@@ -1,2 +1,2 @@
-# node-js-to-do-list
+# NodeJS to-do list
 A simple to-do list made with NodeJS
